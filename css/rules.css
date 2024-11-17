@@ -1,0 +1,23 @@
+@import url('style.css');
+
+#rules-list {
+    padding: 20px;
+}
+
+#rules-list h2 {
+    color: #ffa500;
+    font-size: 1.3em;
+    margin-bottom: 10px;
+}
+
+#rules-list p {
+    font-size: 1em;
+    color: #ddd;
+    margin-bottom: 15px;
+}
+
+#rules-list h2::before {
+    content: '🔥 ';
+    font-size: 1.2em;
+    color: #ff4500;
+}
