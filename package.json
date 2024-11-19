@@ -1,0 +1,15 @@
+{
+  "name": "jankboteko-fire-server",
+  "version": "1.0.0",
+  "description": "Website for JankBoteko's Fire Server on A Township Tale",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["a township tale", "JankBoteko", "fire server", "web service"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
